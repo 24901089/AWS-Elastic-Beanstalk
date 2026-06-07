@@ -1,6 +1,6 @@
 # Experiment: AWS Elastic Beanstalk
-## NAME: Kailash V
-## REG NO: 212224240067
+## NAME: MONICA G
+## REG NO: 212224040198
 ## AIM
 
 * To access the AWS Elastic Beanstalk environment.
